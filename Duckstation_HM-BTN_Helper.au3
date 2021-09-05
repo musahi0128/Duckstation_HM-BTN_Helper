@@ -1,3 +1,13 @@
+#cs ----------------
+
+ AutoIt Version: 3.3.14.5
+ Author:         musahi0128
+
+ Script Function:
+	Automate speedup, create savestates backup with screenshoot on Ducstation when playing Harvest Moon Back to Nature
+
+#ce ----------------
+
 #RequireAdmin
 #include <ScreenCapture.au3>
 
